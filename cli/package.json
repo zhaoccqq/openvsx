@@ -36,7 +36,7 @@
     "dependencies": {
         "@vscode/vsce": "^3.2.1",
         "commander": "^6.2.1",
-        "follow-redirects": "^1.14.6",
+        "follow-redirects": "^1.15.9",
         "is-ci": "^2.0.0",
         "leven": "^3.1.0",
         "semver": "^7.6.0",
